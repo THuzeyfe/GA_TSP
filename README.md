@@ -11,7 +11,7 @@ This project has been developed during a course by using class structure and *py
 Rather than these class files, /*numpy*/ library is also imported in the genetic algorithm.
 ## File Descriptions
 * **GeneticAlgorithmSolver.py:** Main file that stores genetic algorithm class. This class won't work without interacted classes decribed in previous section.
-* **LICENCE*
+* **LICENCE**
 * **README.md**
 ## Summary of Results and Explanations
 A blog post is written to share analysis results. Available here: https://medium.com/@taha.huzeyfe/absolute-animal-heuristic-6675ef94ecc5
